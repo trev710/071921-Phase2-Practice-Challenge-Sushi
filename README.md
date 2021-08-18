@@ -6,7 +6,7 @@ We've had a bit of trouble with our patented Sushi Saga conveyor belt system, so
 
 **Here's what it should look like:**
 
-![Sushi Saga Demo Gif](./sushi-saga-demo.gif) 
+![Sushi Saga Demo Gif](https://github.com/learn-co-students/071921-Phase2-Practice-Challenge-Sushi/blob/master/public/sushi-saga-demo.gif?raw=true) 
 
 **Doesn't that look delicious?!**
 
